@@ -1,0 +1,11 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "description": "Fundamentos Javascript",
+  "main": "variables.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Damian Bruera",
+  "license": "ISC"
+}
